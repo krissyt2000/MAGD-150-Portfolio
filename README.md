@@ -1,37 +1,90 @@
-## Welcome to GitHub Pages
+#MAGD150
+##Readme File
 
-You can use the [editor on GitHub](https://github.com/krissyt2000/MAGD-150-Portfolio/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Enclosed in this repository are examples of code for MAGD-150 at UW-W
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Lab 1
 
-### Markdown
+[Black and White](Lab1.pde)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Black and White composition](https://github.com/krissyt2000/MAGD-150-Portfolio/blob/gh-pages/Lab1.pde)
 
-```markdown
-Syntax highlighted code block
+In this lab we learned how to work with:
+* greyscale
+* stroke/ noStroke
+* fill/ noFill
+* point
+* line
+* ellipse
+* rectangle
+* stroke caps
+* join
 
-# Header 1
-## Header 2
-### Header 3
+*the theme for this lab was outerspace
 
-- Bulleted
-- List
+##Lab 2
 
-1. Numbered
-2. List
+[Color composition](Lab2.pde)
 
-**Bold** and _Italic_ and `Code` text
+[colors](https://github.com/krissyt2000/MAGD-150-Portfolio/blob/gh-pages/Lab2.pde)
 
-[Link](url) and ![Image](src)
-```
+In this lab we learned how to work with:
+* colorMode
+* traingle
+* quad
+* bezier curve
+* shape
+* contour
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*the theme for this week was balloons
 
-### Jekyll Themes
+##Lab 4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krissyt2000/MAGD-150-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Dynamism](Lab4.pde)
 
-### Support or Contact
+[Dynamism composition](https://github.com/krissyt2000/MAGD-150-Portfolio/blob/gh-pages/Lab4.pde)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In this lab we learned how to work with:
+* mousePressed/ void mousePressed
+* keyPressed/ void keyPressed
+* if-else statements
+* for-loop
+* while-loop
+
+*the theme for this week was pizza
+
+##Lab 7
+
+[Transformation](Lab7.pde)
+
+[transforamtion composoition](https://github.com/krissyt2000/MAGD-150-Portfolio/blob/gh-pages/Lab7.pde)
+
+In this lab we learned how to work with:
+* PVector functions
+* translate
+* rotate
+* scale
+
+*the theme for this lab was carnival 
+
+##Lab 9
+
+[image/sound/video](Lab9.pde)
+
+[Image and sound](https://github.com/krissyt2000/MAGD-150-Portfolio/blob/gh-pages/Lab9.pde)
+
+In this lab we learned how to work with:
+* create
+* load
+* display
+* play
+* pan
+* amp
+* rate
+* delay
+* reverb
+* WhiteNoise/ PinkNoise/ BrownNoise
+* SinOsc/ SawOsc/ SqrOsc/ TriOsc/ Pulse
+
+*the theme for this week was mirrors
+
